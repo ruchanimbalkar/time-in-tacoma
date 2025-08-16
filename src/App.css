@@ -1,0 +1,23 @@
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  margin-bottom: 0;
+  text-decoration: underline overline;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2{
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

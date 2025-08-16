@@ -1,0 +1,10 @@
+.show-time{
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    display: flex; /* Enables flexbox for the container */
+    flex-direction: column;
+    justify-content: center; /* Centers items horizontally */
+    align-items: center; /* Centers items vertically (if the container has height) */
+}
+
